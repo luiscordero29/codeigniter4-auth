@@ -1,0 +1,32 @@
+{
+  "name": "codeigniter4-auth",
+  "version": "0.0.1",
+  "description": "Codeigniter4 Authentication ",
+  "main": "public/index.php",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiscordero29/codeigniter4-auth.git"
+  },
+  "keywords": [
+    "Codeigniter4"
+  ],
+  "author": "Luis Cordero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luiscordero29/codeigniter4-auth/issues"
+  },
+  "homepage": "https://github.com/luiscordero29/codeigniter4-auth#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat-css": "^3.1.0"
+  }
+}
