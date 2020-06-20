@@ -23,10 +23,15 @@
   },
   "homepage": "https://github.com/luiscordero29/codeigniter4-auth#readme",
   "dependencies": {
-    "bootstrap": "^4.5.0"
+    "@popperjs/core": "^2.4.2",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-concat-css": "^3.1.0"
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-minify": "^3.1.0"
   }
 }
